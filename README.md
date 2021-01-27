@@ -1,4 +1,4 @@
-# Porter-Stemmer-Python-Algorithm
+# Porter Stemmer Python Algorithm
 Converts words into their stemmed versions.
 
 For example the following is all converted into the word 'argue'.
